@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "809972830053",
+    "project_id": "ncarewebapp",
+    "storage_bucket": "ncarewebapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809972830053:android:3728866884cb15c8555b8c",
+        "android_client_info": {
+          "package_name": "com.mcare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809972830053-o1d04d6ktcaf9lv0osk6flcd5b0hfnhg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mcare",
+            "certificate_hash": "958668fa639b76f6989a68844595ac263c138aac"
+          }
+        },
+        {
+          "client_id": "809972830053-f9off9gcr2hesop83pjmu0tpbkdvqi15.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi8T8VQMpgAWINieSrVNt7gFipwjdTuQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809972830053-f9off9gcr2hesop83pjmu0tpbkdvqi15.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
